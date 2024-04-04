@@ -5,5 +5,7 @@
             "name": "yassine houari"
         }
     ],
-    "require": {}
+    "require-dev": {
+        "symfony/symfony": "^6.0"
+    }
 }
